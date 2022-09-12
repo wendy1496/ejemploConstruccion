@@ -15,7 +15,8 @@ public class EjemploGitHub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola, solo estamos usando GIT");
+        System.out.println("Hola,");
+        System.out.println(" Aprenda a programar");
     }
     
 }
